@@ -9,4 +9,3 @@ spring:
           uri: git@github.com:jeongyong95/config-repository.git
           search-paths: static-config
           basedir: ./joojeongyong.configserver
-          clone-on-start: true
